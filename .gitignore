@@ -4,4 +4,7 @@ npm-debug.*
 coverage/
 .idea/
 *.log
+.merlin
+lib/
+.bsb.lock
 
